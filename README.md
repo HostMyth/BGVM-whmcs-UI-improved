@@ -24,9 +24,9 @@
 ![WHMCS Setup Step 4](docs/setup4.png)
 
 
-!!!!!!Improved 
-modules/servers/budgetvm/hooks.php 
-modules/servers/budgetvm/templates/overview.tpl
+!!!!!!Improved </br>
+modules/servers/budgetvm/hooks.php </br>
+modules/servers/budgetvm/templates/overview.tpl</br>
 modules/servers/budgetvm/templates/power.tpl
 
 Add images/assets to root folder.
